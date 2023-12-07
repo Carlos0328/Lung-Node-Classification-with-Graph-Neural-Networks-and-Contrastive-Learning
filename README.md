@@ -10,5 +10,5 @@ Link: https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=1966254
 
 El dataset LIDC-IDRI comprende tomografías computarizadas torácicas enfocadas en la detección del cáncer de pulmón, con lesiones marcadas y anotadas. Creado por el NCI y apoyado por entidades como FNIH y FDA, este recurso en línea es esencial para el desarrollo de métodos de diagnóstico asistido. Incluye 1018 casos con imágenes y archivos XML asociados, reflejando un proceso de anotación realizado por expertos radiólogos en dos fases, buscando identificar nódulos pulmonares de manera exhaustiva. <br><br><br>
 
-Presentación: 
+Presentación: <br>
 Explicación del código: https://www.youtube.com/watch?v=7-j-c0R8F0g
